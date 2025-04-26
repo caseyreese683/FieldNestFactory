@@ -1,0 +1,23 @@
+
+---
+
+### **2. 24_APIMapStream**  
+**Description:**  
+A multi-endpoint tracker for scanning API routes, tracking health, and visualizing latency.
+
+#### **README.md**
+```markdown
+# APIMapStream - Realtime Endpoint Performance Tracker
+
+APIMapStream monitors grouped API endpoints and tracks their latency, uptime, and error distribution.
+
+## Features
+- Route-based config  
+- Burst + delay detection  
+- JSON / CSV export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_APIMapStream.git
+cd 24_APIMapStream
+python monitor.py
