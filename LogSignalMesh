@@ -1,0 +1,23 @@
+
+---
+
+### **3. 24_LogSignalMesh**  
+**Description:**  
+Parses logs to identify dense error zones, repeated warnings, and signal bursts over time.
+
+#### **README.md**
+```markdown
+# LogSignalMesh - Log Frequency & Pattern Analyzer
+
+LogSignalMesh provides burst detection and pattern repetition analysis for system logs or application output.
+
+## Features
+- Heatmap-style cluster summary  
+- Keyword alerts  
+- CLI output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_LogSignalMesh.git
+cd 24_LogSignalMesh
+python analyze.py
